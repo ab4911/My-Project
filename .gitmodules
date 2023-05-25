@@ -4,3 +4,6 @@
 [submodule "DotNet"]
 	path = DotNet
 	url = https://github.com/ab4911/DotNet.git
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/ab4911/MachineLearning.git
