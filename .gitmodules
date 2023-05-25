@@ -1,0 +1,6 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/ab4911/Angular.git
+[submodule "DotNet"]
+	path = DotNet
+	url = https://github.com/ab4911/DotNet.git
